@@ -7,7 +7,7 @@ Este proyecto es parte de mi portafolio web y representa la página de un hotel.
 [Ver Demo](#) <!-- Agrega el enlace a tu demo en este espacio -->
 
 ## Capturas de Pantalla
-![Captura de Pantalla 1](./src/assets/Captura.png.png)
+![Captura de Pantalla 1](./src/assets/Captura.png)
 
 <!-- Agrega capturas de pantalla de tu proyecto si es relevante -->
 
